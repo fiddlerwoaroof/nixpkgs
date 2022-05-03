@@ -1,7 +1,6 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    backports (3.18.1)
     concurrent-ruby (1.1.7)
     crass (1.0.6)
     execjs (2.7.0)
@@ -58,7 +57,7 @@ GEM
     octicons (8.5.0)
       nokogiri (>= 1.6.3.1)
     rack (2.2.3)
-    rack-protection (2.0.8.1)
+    rack-protection (2.2.0)
       rack
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
@@ -67,24 +66,23 @@ GEM
     rouge (3.22.0)
     rss (0.2.9)
       rexml
-    ruby2_keywords (0.0.2)
+    ruby2_keywords (0.0.5)
     rugged (0.99.0)
     sass (3.7.4)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    sinatra (2.0.8.1)
+    sinatra (2.2.0)
       mustermann (~> 1.0)
-      rack (~> 2.0)
-      rack-protection (= 2.0.8.1)
+      rack (~> 2.2)
+      rack-protection (= 2.2.0)
       tilt (~> 2.0)
-    sinatra-contrib (2.0.8.1)
-      backports (>= 2.8.2)
+    sinatra-contrib (2.2.0)
       multi_json
       mustermann (~> 1.0)
-      rack-protection (= 2.0.8.1)
-      sinatra (= 2.0.8.1)
+      rack-protection (= 2.2.0)
+      sinatra (= 2.2.0)
       tilt (~> 2.0)
     sprockets (3.7.2)
       concurrent-ruby (~> 1.0)
