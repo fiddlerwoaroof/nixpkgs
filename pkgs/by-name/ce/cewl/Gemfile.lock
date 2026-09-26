@@ -18,7 +18,7 @@ GEM
     pstore (0.2.0)
     racc (1.8.1)
     rexml (3.4.4)
-    rubyzip (3.2.2)
+    rubyzip (3.4.0)
     spider (0.7.0)
 
 PLATFORMS
